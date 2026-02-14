@@ -9,7 +9,7 @@ O objetivo é identificar padrões geográficos, relação entre população e e
 
 ---
 ![Dashboard](Dashboard.png)
-
+---
 ## Problema de Negócio:
 
 Governos e organizações ambientais precisam responder:
@@ -96,3 +96,5 @@ Top emissores:
 5. Construção de visualizações estratégicas
 
 ---
+
+#### link para o dashboard: https://dbc-6e1acd64-b7cb.cloud.databricks.com/dashboardsv3/01f0efdd756f108584fada601a8312c3/published?o=7474658572149916
