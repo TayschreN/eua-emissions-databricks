@@ -29,7 +29,7 @@ Este dashboard auxilia na análise estratégica desses fatores.
 
 Visualização geográfica das emissões distribuídas pelo território americano.
 
-🔎 Permite identificar concentração regional de poluentes.
+Permite identificar concentração regional de poluentes.
 
 ---
 
@@ -98,3 +98,14 @@ Top emissores:
 ---
 
 #### link para o dashboard: https://dbc-6e1acd64-b7cb.cloud.databricks.com/dashboardsv3/01f0efdd756f108584fada601a8312c3/published?o=7474658572149916
+
+---
+
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://www.youtube.com/watch?v=CoqZTt528ew.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Databricks.
+
+
+
